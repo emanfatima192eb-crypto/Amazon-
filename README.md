@@ -15,7 +15,7 @@ This project is a clone of the Amazon website homepage, developed using HTML and
 - Hero Section
 - Product Category Boxes
 - Product Images
-- - Font Awesome Icons
+- Font Awesome Icons
 - Footer Section
 - Copyright Section
 
