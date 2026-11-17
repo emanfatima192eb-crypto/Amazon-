@@ -6,6 +6,7 @@ This project is a clone of the Amazon website homepage, developed using HTML and
 ## Technologies Used
 - HTML5
 - CSS3
+- Font Awesome (Icons)
 
 ## Features
 - Main Navigation Bar
@@ -14,6 +15,7 @@ This project is a clone of the Amazon website homepage, developed using HTML and
 - Hero Section
 - Product Category Boxes
 - Product Images
+- - Font Awesome Icons
 - Footer Section
 - Copyright Section
 
